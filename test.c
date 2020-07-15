@@ -5,4 +5,6 @@ main()
  	 printf("hello word");
 	c= a+b;
 	printf("%d",c);
+
+	helllo
 }
