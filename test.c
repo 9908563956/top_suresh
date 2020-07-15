@@ -7,4 +7,6 @@ main()
 	printf("%d",c);
 
 	helllo
+
+	added for new line in main brach
 }
